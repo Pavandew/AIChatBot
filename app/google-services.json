@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252007858496",
+    "project_id": "ai-student-5c89d",
+    "storage_bucket": "ai-student-5c89d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252007858496:android:76aa89fdf337871ada7aa5",
+        "android_client_info": {
+          "package_name": "com.ourmindai.aistudent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1hjSyzVO7gf1T4volADyt_Tef247g-ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
